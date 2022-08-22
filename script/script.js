@@ -58,7 +58,6 @@ function createElements(value) {
     });
 
     btnEdit.addEventListener('click', () => {
-        console.log(inputChange);
         inputChange.disabled = false;
         inputChange.addEventListener('keydown', (event) => {
             if (event.code === 'Enter') inputChange.disabled = true;
@@ -71,6 +70,5 @@ function createElements(value) {
     li.append(btnDone);
     li.append(inputChange);
     output.prepend(li);
-
 
 }
