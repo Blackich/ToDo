@@ -1,0 +1,27 @@
+.col-8 {
+    background-color: darkcyan;
+    min-height: 600px;
+}
+
+.btn-done {
+    width: 24px;
+    height: 24px;
+}
+.btn-edit, 
+.btn-close,
+.btn-done {
+    float: right;
+    margin-left: 10px;
+    opacity: .5;
+}
+
+.btn-edit:hover, 
+.btn-close:hover,
+.btn-done:hover {
+    opacity: .9;
+    cursor: pointer;
+}
+
+.input-value {
+    width: 70%;
+}
