@@ -19,7 +19,6 @@
 .btn-close:hover,
 .btn-done:hover {
     opacity: .9;
-    cursor: pointer;
 }
 
 .input-value {
