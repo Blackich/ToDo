@@ -72,6 +72,6 @@ function createElements(value) {
     output.prepend(li);
 
 }
-
+console.log('highfhfgh');
 console.log('hi');
 console.log('hi');
