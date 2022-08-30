@@ -75,5 +75,5 @@ function createElements(value) {
 
 console.log('hsdfgdfgdfi');
 console.log('hi');
-console.log('hi');
+console.log('hsdfgsdfgsdfgi');
 console.log('hdfghlkjdfgklhjfdgh');
